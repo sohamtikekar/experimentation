@@ -1,0 +1,12 @@
+{
+  "name": "routing-app",
+  "version": "1.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2"
+  }
+}
